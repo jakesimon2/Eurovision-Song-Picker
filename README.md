@@ -1,0 +1,2 @@
+# Eurovision-Song-Picker
+Welcome to the "Eurovision Song Picker"! This page takes every single Eurovision song (as of 2019), and stores them into a single database. This database includes the country, year, title, and performer for each song. The purpose of the program is to give users a list of randomly selected Eurovision songs from either the entire list of Eurovision songs, or from a smaller, customizable list of songs selected based on a set of given parameters.
